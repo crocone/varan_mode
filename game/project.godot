@@ -1,0 +1,39 @@
+; Engine configuration file.
+config_version=5
+
+[application]
+
+config/name="VaranMod"
+config/description="Live the life of a monitor lizard."
+run/main_scene="res://scenes/main.tscn"
+config/features=PackedStringArray("4.7", "Forward Plus")
+config/icon="res://assets/icon.svg"
+boot_splash/bg_color=Color(0.06, 0.045, 0.035, 1)
+boot_splash/show_image=false
+config/windows_native_icon=""
+
+[autoload]
+
+Game="*res://scripts/core/game.gd"
+Sfx="*res://scripts/core/sfx.gd"
+Net="*res://scripts/core/net.gd"
+
+[display]
+
+window/size/viewport_width=1600
+window/size/viewport_height=900
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+window/vsync/vsync_mode=1
+
+[physics]
+
+common/physics_ticks_per_second=60
+
+[rendering]
+
+anti_aliasing/quality/msaa_3d=2
+lights_and_shadows/directional_shadow/size=4096
+lights_and_shadows/directional_shadow/soft_shadow_filter_quality=2
+environment/defaults/default_clear_color=Color(0.06, 0.045, 0.035, 1)
+textures/canvas_textures/default_texture_filter=1
