@@ -3,6 +3,17 @@
 Life simulator: you are a lace monitor in an Australian riverland,
 from the moment you break out of the egg until old age. Play alone, or share
 one living world with up to 7 other players.
+<p align="center">
+<img width="800" height="450" alt="ezgif-307b57c1466e5f39" src="https://github.com/user-attachments/assets/09a5abd4-0628-4e48-99fb-50b435aaa3d6" />
+<a href="https://coders.talk/b/build-a-monitor-lizard-life-sim-game-in-godot-from-scratch">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://coders.talk/embed/b/build-a-monitor-lizard-life-sim-game-in-godot-from-scratch.svg?theme=light">
+    <img alt="Build a monitor-lizard life-sim game in Godot from scratch" src="https://coders.talk/embed/b/build-a-monitor-lizard-life-sim-game-in-godot-from-scratch.svg" width="600">
+  </picture>
+</a>
+</p>
+
+
 
 ## Run
 
